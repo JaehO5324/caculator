@@ -25,7 +25,6 @@ public class Caculator extends JFrame {
 	Boolean isCalBtn = false;
 	String q[] = new String[1000], n;
 	String[] p = new String[50];
-	asdasdasdasd
 
 	int ct = 0, ntext = 1,ncal=1;
 	double rs, fs;
